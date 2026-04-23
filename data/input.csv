@@ -1,0 +1,5 @@
+name,vehicle,phone,email,parentPhone,parentEmail,hodPhone,hodEmail,violationCount
+Prathap,AP09AB1234,9640328999,bvdpreddybode@gmail.com,9640283999,parent1@gmail.com,9640338999,hod@gmail.com,1
+Nagaraju,AP09CD5678,8309246264,24071a6771@vnrvjiet.in,9063720999,parent2@gmail.com,9063710999,bvdpreddybode@gmail.com,3
+
+Rahul,AP09EF9999,9589168916,24071a67c9@vnrvjietin,9063720999,parent3@gmail.com,9063710999,hod@gmail.com,3

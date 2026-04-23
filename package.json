@@ -1,0 +1,30 @@
+{
+  "name": "csv-notification-system",
+  "version": "1.0.0",
+  "description": "A CSV-based notification system for sending SMS notifications in batch",
+  "main": "processor.js",
+  "scripts": {
+    "start": "node processor.js",
+    "dev": "nodemon processor.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "notification",
+    "SMS",
+    "CSV",
+    "batch",
+    "twilio"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.6.1",
+    "nodemailer": "^8.0.5",
+    "twilio": "^3.84.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.20"
+  }
+}
